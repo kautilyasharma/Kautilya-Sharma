@@ -1,3 +1,4 @@
 # Kautilya-Sharma
-this is my first git repository
-author  -  Kautilya sharma
+this is my first git repository.
+<br>
+Author  -  Kautilya sharma
